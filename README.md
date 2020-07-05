@@ -10,7 +10,9 @@ This repository covers about 40% of the course materials.
 300 ... PyTorch on colab notebook  
 400 ... Deep learning from scratch (taken from a book)  
 500 ... Medical AI expert course online course  
+600 ... Computing Plathomes on the internet (public cloud)
   
 IMISToolA2020_Report4 ... Report of 2020/06/29.
+IMISToolA2020_Report5 ... Report of 2020/07/06.
 
-The report templates will be shown here too.
+(The course was held in June and July in 2020.)
