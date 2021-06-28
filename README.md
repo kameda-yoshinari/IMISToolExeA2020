@@ -16,3 +16,6 @@ IMISToolA2020_Report4 ... Report of 2020/06/29.
 IMISToolA2020_Report5 ... Report of 2020/07/06.
 
 (The course was held in June and July in 2020.)
+
+When you have "Sorry, something went wrong. Reload?", use https://nbviewer.jupyter.org/
+(See https://github.com/kameda-yoshinari/General for detail)
